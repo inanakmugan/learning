@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{31854BFF-9D36-ADB9-713A-3BF523C2235C}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Weapons.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DeathHandler.cs" Line="17" Column="31" />
+      <File FileName="Assets/Scripts/EnemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAttack.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="12" Column="10" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PauseGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Weapons.cs" Line="8" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie Shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Weapons.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da90efcc-872f-489c-8fca-e2d8b73ff16b" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
